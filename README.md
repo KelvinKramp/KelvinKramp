@@ -19,6 +19,6 @@ Learning these skills will involve learning how to read and write code. This can
 - 🤔 I’m looking for help with java and android
 - 💬 Ask me about how AI, automation and datascience can improve health care
 - 📫 How to reach me: k.h.kramp@gmail.com
-
-
+- Github stats: 
 <img src="https://github-readme-stats.vercel.app/api?username=KelvinKramp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- [List of publications](https://github.com/KelvinKramp/Publications) 
