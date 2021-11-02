@@ -7,7 +7,7 @@ Learning these skills will involve learning how to read and write code. This can
   2) A medical consultation scheduler android app with a connection to a SQL database (I have created a [working frontend](https://github.com/KelvinKramp/ConsultationSchedulingApp) in Python with Dash that I used with permission from my supervisor during medical drivers license checks) 
   3) Green trading app. If you also believe that capitalism can be used for the better and are willing to work on this project send my a pm. 
   4) Im increasing my knowledge on blockchain technology and crypto (Solidity coding, reading the white papers, investing and thinking about how the new form of money can change the world.)   
-  5) Teaching myself how to do pull requests and get 
+  5) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
 - On my to do list are: 
   1) An app to schedule and organize partner dance classes (with a focus on self organizing equal balances in leaders/followers),
   2) A Heroku feedback form to obtain feedback on my latest book. 
