@@ -4,7 +4,7 @@ Learning these skills will involve learning how to read and write code. This can
 
 - 🔭 I’m currently working on:
   1) Improvements the android artificial pancreas app (androidAPS). 
-  2) A consultation hour schdule android app with a connection to an SQL database (already created a working frontend in Python with Dash, see project "RijbewijskeuringenHolland") 
+  2) A consultation hour schdule android app with a connection to an SQL database (already created a working frontend in Python with Dash, see https://github.com/KelvinKramp/ConsultationSchedulingApp) 
   3) A partner dance dance school scheduler app.
   4) Green trader. If you also believe that capitalism can be used for the better
   5) Im increasing my knowledge on blockchain technology and crypto (Solidity coding, reading the white papers, investing and thinking about how the new form of money can change the world.)   
