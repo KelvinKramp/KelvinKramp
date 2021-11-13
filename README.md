@@ -1,6 +1,4 @@
-I’m a medical doctor and researcher with a PhD in surgical education. 
-
-I currently work as a freelancer in different fields of medicine and also at health-tech company Ada Health. I believe that whether you are a medical doctor, nurse, physio-therapist or someone else who is involved in health-care, learning automatisation, data science and machine learning can increase your work efficiency and efficacy and by doing so ultimately will improve your life and those of others. 
+Curious to what tech has to offer. Background in the medical field: Medical doctor and researcher with a PhD in surgical education. I work as a freelancer in different fields of medicine and also at health-tech company Ada Health. I believe that whether you are a medical doctor, nurse, physio-therapist or someone else who is involved in health-care, learning automation, data science and machine learning can increase your work efficiency and efficacy and by doing so ultimately will improve your life and those of others. 
 
 Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at heart, and that if we join our efforts nothing is impossible. 
 
@@ -21,6 +19,7 @@ Learning these skills will involve learning how to read and write code. This can
   4) [Organisation ethnicity diversity checker](https://github.com/KelvinKramp/ethnicity-detector)
   5) [Vital signs tracking dashboard](https://github.com/KelvinKramp/vital-signs-Dash-python)
   6) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator) 
+  7) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
 
 - :hospital: I’m looking to collaborate on imporving health care
 -:mag_right: I’m looking for help with java and android
