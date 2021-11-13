@@ -6,14 +6,21 @@ Learning these skills will involve learning how to read and write code. This can
 
 - 🛠️ I’m currently working on:
   1) List of improvements for the android artificial pancreas app [androidAPS](https://github.com/nightscout/AndroidAPS): a) alarm reduction, b) double wave bolusses, c) feedback to the loop from body activity retrieved from sportwatch, d) I also wonder wether machine learning analysis of bolussing, basals, activity, intake and sleep pattern can be used to reduce fluctuations with the loop.  
-  2) A medical consultation scheduler android app with a connection to a SQL database (I have created a [working frontend and backend](https://github.com/KelvinKramp/ConsultationSchedulingApp) in Python with Dash that I used with permission from my supervisor during medical drivers license checks) 
-  3) Im increasing my knowledge on blockchain technology and crypto (solidity coding, re-re-reading the white papers, investing and thinking about how the new form of money can change the world.)   
-  4) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
+  2) Im increasing my knowledge on blockchain technology and crypto (solidity coding, re-re-reading the white papers, investing and thinking about how the new form of money can change the world.)   
+  3) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
 
 - 📕 On my to do list are: 
   1) An app to schedule and organize partner dance classes (with a focus on self organizing equal balances in leaders/followers).
   2) An app to calculate maximum fertility periods of my girlfriend.
   3) Green trading app is one of my ideas. If you also believe that capitalism can be used for the better and are willing to work on this project send my a pm. 
+
+- Recent completed projects:
+  1) [Feedback website](https://github.com/KelvinKramp/BookFeedback) for my recently written self-published book on Amazon [Urban kiz: a new vision on partner dance](https://www.amazon.com/Urban-Kiz-vision-partner-dance/dp/9090344306). 
+  2) [Interactive agenda](https://github.com/KelvinKramp/ConsultationSchedulingApp) for medical drivers license checks. (Also used with permission from managers from the company). 
+  3) Voice assisted drug prescription](https://github.com/KelvinKramp/voice-assisted-drug-prescription)
+  4) [Organisation ethnicity diversity checker](https://github.com/KelvinKramp/ethnicity-detector)
+  5) [Vital signs tracking dashboard](https://github.com/KelvinKramp/vital-signs-Dash-python)
+  6) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator) 
 
 - :hospital: I’m looking to collaborate on imporving health care
 -:mag_right: I’m looking for help with java and android
