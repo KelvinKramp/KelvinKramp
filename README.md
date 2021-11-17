@@ -11,6 +11,7 @@ Learning these skills will involve learning how to read and write code. This can
   1) An app to schedule and organize partner dance classes (with a focus on self organizing equal balances in leaders/followers).
   2) An app to calculate maximum fertility periods of my girlfriend.
   3) Green trading app is one of my ideas. If you also believe that capitalism can be used for the better and are willing to work on this project send my a pm. 
+  4) Medical doctors feedback app ("MediFeed" or something??..), an browser and smartphone app that you can use to grade the consultation experience end give feedback for improvement.
 
 - Recent completed projects:
   1) [Feedback website](https://github.com/KelvinKramp/BookFeedback) for my recently written self-published book on Amazon [Urban kiz: a new vision on partner dance](https://www.amazon.com/Urban-Kiz-vision-partner-dance/dp/9090344306). 
