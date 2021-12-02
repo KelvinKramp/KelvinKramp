@@ -20,7 +20,7 @@ Learning these skills will involve learning how to read and write code. This can
   6) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator) 
   7) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
 
-- :hospital: I’m looking to collaborate on imporving health care
+- :hospital: I’m looking to collaborate on improving health care
 -:mag_right: I’m looking for help with java and android
 - 💬 Ask me what dance is
 - 🔗 How to connect: k.h.kramp@gmail.com
