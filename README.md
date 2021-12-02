@@ -20,9 +20,10 @@ Learning these skills will involve learning how to read and write code. This can
   6) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator) 
   7) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
   8) [Automate e-mail sending from Heroku with Python](https://k-h-kramp.medium.com/automate-e-mail-sending-from-heroku-with-python-a7543ea8a0b6)
-  10) [Work progress tracking: Tracking changes in Google Spreadsheets with Google Apps Script](https://k-h-kramp.medium.com/automated-work-progress-tracking-88f4fde1acaf)
-  11)[Speed calculation of oracle database population](https://gist.github.com/KelvinKramp/ff2ba98e4f2194299f3f405906ee66cc)
-  12)[Automatic translation of Google sheets sheet](https://gist.github.com/KelvinKramp/c1baf72f409301156d4aa309b27f242f)
+  10)[Work progress tracking: Tracking changes in Google Spreadsheets with Google Apps Script](https://k-h-kramp.medium.com/automated-work-progress-tracking-88f4fde1acaf)
+  11) 
+  12)[Speed calculation of oracle database population](https://gist.github.com/KelvinKramp/ff2ba98e4f2194299f3f405906ee66cc)
+  13)[Automatic translation of Google sheets sheet](https://gist.github.com/KelvinKramp/c1baf72f409301156d4aa309b27f242f)
 
 - :hospital: I’m looking to collaborate on improving healthcare
 - :mag_right: I’m looking for help with java and android
