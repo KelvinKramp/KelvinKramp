@@ -1,4 +1,4 @@
-I believe that whether you are a medical doctor, nurse, physio-therapist or someone else who is involved in health-care, learning automation, data science and machine learning can increase your work efficiency and efficacy and by doing so ultimately will improve your life and those of others. 
+I believe that whether you are a medical doctor, nurse, physio-therapist or someone else who is involved in healthcare, learning automation, data science and machine learning can increase your work efficiency and efficacy and by doing so ultimately will improve your life and those of others. 
 
 Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at heart, and that if we join our efforts nothing is impossible. 
 
@@ -20,7 +20,7 @@ Learning these skills will involve learning how to read and write code. This can
   6) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator) 
   7) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
 
-- :hospital: I’m looking to collaborate on improving health care
+- :hospital: I’m looking to collaborate on improving healthcare
 -:mag_right: I’m looking for help with java and android
 - 💬 Ask me what dance is
 - 🔗 How to connect: k.h.kramp@gmail.com
