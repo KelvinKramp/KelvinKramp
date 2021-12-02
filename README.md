@@ -22,7 +22,7 @@ Learning these skills will involve learning how to read and write code. This can
   8) [Automate e-mail sending from Heroku with Python](https://k-h-kramp.medium.com/automate-e-mail-sending-from-heroku-with-python-a7543ea8a0b6)
   9) [Work progress tracking, tracking changes in Google Spreadsheets with Google Apps Script](https://k-h-kramp.medium.com/automated-work-progress-tracking-88f4fde1acaf)
   10) [Speed calculation of oracle database population](https://gist.github.com/KelvinKramp/ff2ba98e4f2194299f3f405906ee66cc)
-  11) [Automatic translation of excel sheet](https://gist.github.com/KelvinKramp/c1baf72f409301156d4aa309b27f242f)
+  11) [Automated google translate translation of Excel sheet](https://gist.github.com/KelvinKramp/c1baf72f409301156d4aa309b27f242f)
 
 - :hospital: I’m looking to collaborate on improving healthcare
 - :mag_right: I’m looking for help with java and android
