@@ -21,7 +21,7 @@ Learning these skills will involve learning how to read and write code. This can
   7) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
 
 - :hospital: I’m looking to collaborate on improving healthcare
--:mag_right: I’m looking for help with java and android
+- :mag_right: I’m looking for help with java and android
 - 💬 Ask me what dance is
 - 🔗 How to connect: k.h.kramp@gmail.com
 - :newspaper: How to stay up-to-date: [follow me on Medium](https://k-h-kramp.medium.com/)
