@@ -11,14 +11,16 @@ Learning these skills will involve learning how to read and write code. This can
   1) An app to schedule and organize partner dance classes (with a focus on self organizing equal balances in leaders/followers).
   2) Medical doctors feedback app ("MediFeed" or something??..), an browser and smartphone app that you can use to grade the consultation experience end give feedback for improvement.
 
-- Recent completed projects:
-  1) [Feedback website](https://github.com/KelvinKramp/BookFeedback) for my recently written self-published book on Amazon [Urban kiz: a new vision on partner dance](https://www.amazon.com/Urban-Kiz-vision-partner-dance/dp/9090344306). 
-  2) [Interactive agenda](https://github.com/KelvinKramp/ConsultationSchedulingApp) for medical drivers license checks. (Also used with permission from managers from the company). 
-  3) [Voice assisted drug prescription](https://github.com/KelvinKramp/voice-assisted-drug-prescription)
-  4) [Organisation ethnicity diversity checker](https://github.com/KelvinKramp/ethnicity-detector)
-  5) [Vital signs tracking dashboard](https://github.com/KelvinKramp/vital-signs-Dash-python)
-  6) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator) 
-  7) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
+- Recent completed projects in medicine:
+  1) [Interactive agenda](https://github.com/KelvinKramp/ConsultationSchedulingApp) for medical drivers license checks. (Also used with permission from managers from the company). 
+  2) [Voice assisted drug prescription](https://github.com/KelvinKramp/voice-assisted-drug-prescription)
+  3) [Vital signs tracking dashboard](https://github.com/KelvinKramp/vital-signs-Dash-python)
+  4) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)
+  5) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
+
+- Recent completed projects in automation:
+  6) [Organisation ethnicity diversity checker](https://github.com/KelvinKramp/ethnicity-detector)
+  7) [Feedback website](https://github.com/KelvinKramp/BookFeedback) for my recently written self-published book on Amazon [Urban kiz: a new vision on partner dance](https://www.amazon.com/Urban-Kiz-vision-partner-dance/dp/9090344306). 
   8) [Automate e-mail sending from Heroku with Python](https://k-h-kramp.medium.com/automate-e-mail-sending-from-heroku-with-python-a7543ea8a0b6)
   9) [Work progress tracking, tracking changes in Google Spreadsheets with Google Apps Script](https://k-h-kramp.medium.com/automated-work-progress-tracking-88f4fde1acaf)
   10) [Speed calculation of oracle database population](https://gist.github.com/KelvinKramp/ff2ba98e4f2194299f3f405906ee66cc)
