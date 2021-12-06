@@ -19,6 +19,7 @@ Learning these skills will involve learning how to read and write code. This can
   5) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
 
 - Recent completed projects in automation:
+  5) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
   6) [Organisation ethnicity diversity checker](https://github.com/KelvinKramp/ethnicity-detector)
   7) [Feedback website](https://github.com/KelvinKramp/BookFeedback) for my recently written self-published book on Amazon [Urban kiz: a new vision on partner dance](https://www.amazon.com/Urban-Kiz-vision-partner-dance/dp/9090344306). 
   8) [Automate e-mail sending from Heroku with Python](https://k-h-kramp.medium.com/automate-e-mail-sending-from-heroku-with-python-a7543ea8a0b6)
