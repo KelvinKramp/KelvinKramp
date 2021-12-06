@@ -11,16 +11,15 @@ Learning these skills will involve learning how to read and write code. This can
   1) An app to schedule and organize partner dance classes (with a focus on self organizing equal balances in leaders/followers).
   2) Medical doctors feedback app ("MediFeed" or something??..), an browser and smartphone app that you can use to grade the consultation experience end give feedback for improvement.
 
-- Recent completed projects in medicine:
+- Recently completed experiments in medicine:
   1) Continous glucose measurements: [How to hack a glucose sensor](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
   2) [Interactive agenda](https://github.com/KelvinKramp/ConsultationSchedulingApp) for medical drivers license checks. (Also used with permission from managers from the company). 
   3) [Voice assisted drug prescription](https://github.com/KelvinKramp/voice-assisted-drug-prescription)
   4) [Vital signs tracking dashboard](https://github.com/KelvinKramp/vital-signs-Dash-python)
   5) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)
   6) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
-  7) Name finding
 
-- Recent completed projects in automation:
+- Recently completed experiments in automation:
   1) [Organisation ethnicity diversity checker](https://github.com/KelvinKramp/ethnicity-detector)
   2) [Feedback website](https://github.com/KelvinKramp/BookFeedback) for my recently written self-published book on Amazon [Urban kiz: a new vision on partner dance](https://www.amazon.com/Urban-Kiz-vision-partner-dance/dp/9090344306).
   3) [Automate e-mail sending from Heroku with Python](https://k-h-kramp.medium.com/automate-e-mail-sending-from-heroku-with-python-a7543ea8a0b6)
@@ -29,8 +28,9 @@ Learning these skills will involve learning how to read and write code. This can
   6) [Automated google translate translation of Excel sheet](https://gist.github.com/KelvinKramp/c1baf72f409301156d4aa309b27f242f)
   7) [Storing csv files on Google Firebase](https://github.com/KelvinKramp/DeGiro-cloud-csv-storage)
   8) [Scraping all Subpages of a Website in Python](https://python.plainenglish.io/scraping-the-subpages-on-a-website-ea2d4e3db113)
+  9) [Record finding in a database with the Levenshtein distance](https://k-h-kramp.medium.com/finding-an-electronic-health-record-in-a-healthcare-database-79ab16f2715c)
 
-- Other:
+- Other experiments:
   9) [Convert a Dash app into an Executable GUI](https://python.plainenglish.io/how-to-convert-your-dash-app-into-an-executable-gui-b1d4271a8fa7)
   10) [How to Create a Modal Window with Python in Dash](https://python.plainenglish.io/how-to-create-a-model-window-in-dash-4ab1c8e234d3)
 
