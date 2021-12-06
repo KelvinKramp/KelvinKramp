@@ -18,6 +18,9 @@ Learning these skills will involve learning how to read and write code. This can
   4) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)
   5) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
 
+
+- Recent completed projects in medicine:
+  1) [Interactive agenda](https://github.com/KelvinKramp/ConsultationSchedulingApp) for medical drivers license checks. (Also used with permission from managers from the company). 
 - Recent completed projects in automation:
   5) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
   6) [Organisation ethnicity diversity checker](https://github.com/KelvinKramp/ethnicity-detector)
