@@ -31,8 +31,8 @@ Learning these skills will involve learning how to read and write code. This can
   9) [Record finding in a database with the Levenshtein distance](https://k-h-kramp.medium.com/finding-an-electronic-health-record-in-a-healthcare-database-79ab16f2715c)
 
 - Other experiments:
-  9) [Convert a Dash app into an Executable GUI](https://python.plainenglish.io/how-to-convert-your-dash-app-into-an-executable-gui-b1d4271a8fa7)
-  10) [How to Create a Modal Window with Python in Dash](https://python.plainenglish.io/how-to-create-a-model-window-in-dash-4ab1c8e234d3)
+  1) [Convert a Dash app into an Executable GUI](https://python.plainenglish.io/how-to-convert-your-dash-app-into-an-executable-gui-b1d4271a8fa7)
+  2) [How to Create a Modal Window with Python in Dash](https://python.plainenglish.io/how-to-create-a-model-window-in-dash-4ab1c8e234d3)
 
 - :hospital: I’m looking to collaborate on improving healthcare
 - :mag_right: I’m looking for help with java and android
