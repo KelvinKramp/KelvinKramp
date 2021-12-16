@@ -6,7 +6,7 @@ Learning these skills will involve learning how to read and write code. This can
   1) List of improvements for the android artificial pancreas app [androidAPS](https://github.com/nightscout/AndroidAPS): a) alarm reduction :heavy_check_mark:, b) double wave bolusses, c) email alert when cgm/infusion replacement is needed, d) I also wonder whether machine learning analysis of boluses, basals, activity, intake and sleep pattern can be used to reduce fluctuations within the loop. Can a genetic algorithm help? 
   2) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
 
-- 📕 On my to do list are: 
+- 📕 On my ideas list are: 
   1) Medical doctors feedback app ("MediFeed" or something??..), a browser and smartphone app that you can use to grade the consultation experience end give feedback for improvement.
 
 - Recently completed projects in medicine:
