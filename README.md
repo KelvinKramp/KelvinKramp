@@ -3,7 +3,7 @@ I believe that whether you are a medical doctor, nurse, physio-therapist or some
 Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at heart, and that if we join our efforts nothing is impossible. 
 
 - 🛠️  I’m currently working on:
-  1) List of improvements for the android artificial pancreas app [androidAPS](https://github.com/nightscout/AndroidAPS): a) alarm reduction :heavy_check_mark:, b) double wave bolusses, c) email alert when cgm/infusion replacement is needed, d) I also wonder whether machine learning analysis of boluses, basals, activity, intake and sleep pattern can be used to reduce fluctuations within the loop. Can a genetic algorithm help? 
+  1) List of improvements for the android artificial pancreas app [androidAPS](https://github.com/nightscout/AndroidAPS): a) alarm reduction :heavy_check_mark:, b) double wave bolusses, c) email alert when cgm/infusion replacement is needed, d) connecting autosens to androidaps/nsclient/health dashboard, e) connect with actvitiy tracker. 
   2) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
 
 - 📕 On my ideas list are: 
