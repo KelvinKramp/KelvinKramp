@@ -3,7 +3,7 @@ I believe that whether you are a medical doctor, nurse, physio-therapist or some
 Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at heart, and that if we join our efforts nothing is impossible. 
 
 - 🛠️  I’m currently working on:
-  1) List of improvements for the android artificial pancreas app [androidAPS](https://github.com/nightscout/AndroidAPS): a) Heroku app for autotune backend code -> show old profile, show suggested profile adjustments, b) Double wave bolusses, c) connect actvitiy tracker to androidAPS. 
+  1) a) Heroku app as an extension to [androidAPS](https://github.com/nightscout/AndroidAPS) b) Double wave bolusses, c) connect actvitiy tracker to androidAPS. 
   2) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
 
 - 📕 On my ideas list are: 
