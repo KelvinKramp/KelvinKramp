@@ -8,7 +8,7 @@ Learning these skills will involve learning how to read and write code. This can
   3) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
 
 - 📕 On my ideas list are: 
-  1) Medical doctors feedback app ("MediFeed" or something??..), a browser and smartphone app that you can use to grade the consultation experience end give feedback for improvement.
+  1) Medical doctors feedback app ("MediFeed" or something?).
 
 - Hobby projects:
   1) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
