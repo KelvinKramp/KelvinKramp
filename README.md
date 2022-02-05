@@ -4,7 +4,8 @@ Learning these skills will involve learning how to read and write code. This can
 
 - 🛠️  I’m currently working on:
   1) a) Heroku app as an extension to [androidAPS](https://github.com/nightscout/AndroidAPS) b) Double wave bolusses, c) Connect actvitiy tracker to androidAPS. 
-  2) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
+  2) Together with colleagues at Ada Health we are developing a question-answer system for diabetes. You can find the alpha version over [here](https://diabetes-chatbot-alpha.herokuapp.com).  
+  3) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
 
 - 📕 On my ideas list are: 
   1) Medical doctors feedback app ("MediFeed" or something??..), a browser and smartphone app that you can use to grade the consultation experience end give feedback for improvement.
