@@ -10,13 +10,13 @@ Learning these skills will involve learning how to read and write code. This can
 - 📕 On my ideas list are: 
   1) Medical doctors feedback app ("MediFeed" or something?).
 
-- Hobby projects:
+- Projects:
   1) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
   2) [Interactive agenda](https://github.com/KelvinKramp/ConsultationSchedulingApp)
   3) [Voice assisted drug prescription](https://github.com/KelvinKramp/voice-assisted-drug-prescription)
   4) [Vital signs tracking dashboard](https://github.com/KelvinKramp/vital-signs-Dash-python)
   5) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)
-  6) [Deploying a OpenAPS Autotune API on the cloud](https://github.com/KelvinKramp/AutotuneAPI)
+  6) [Deploying an OpenAPS Autotune API to the cloud](https://github.com/KelvinKramp/AutotuneAPI)
 
 
 - :hospital: I’m looking to collaborate on improving healthcare
