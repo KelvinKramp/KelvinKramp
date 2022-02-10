@@ -2,6 +2,8 @@ I believe that whether you are a medical doctor, nurse, physio-therapist or some
 
 Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at heart, and that if we join our efforts nothing is impossible. 
 
+“Change will not come if we wait for some other person or some other time. We are the ones we’ve been waiting for. We are the change that we seek.” - Barack Obama
+
 - 🛠️  I’m currently working on:
   1) a) Heroku app as an extension to [androidAPS](https://github.com/nightscout/AndroidAPS) b) Double wave bolusses, c) Connect actvitiy tracker to androidAPS. 
   2) Together with colleagues at [Ada Health](https://ada.com/) we are developing a question-answer system for diabetes. You can find the alpha version over [here](https://diabetes-chatbot-alpha.herokuapp.com).  
