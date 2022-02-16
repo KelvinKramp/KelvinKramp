@@ -5,9 +5,10 @@ Learning these skills will involve learning how to read and write code. This can
 “Change will not come if we wait for some other person or some other time. We are the ones we’ve been waiting for. We are the change that we seek.” - Barack Obama
 
 - 🛠️  I’m currently working on:
-  1) Together with colleagues at [Ada Health](https://ada.com/) we are developing a question-answer system for diabetes. You can find the alpha version over [here](https://diabetes-chatbot-alpha.herokuapp.com).  
-  2) a)  Extension app to NightScout and [androidAPS](https://github.com/nightscout/AndroidAPS) with the option for b) Double wave bolusses, c) Connect actvitiy tracker. 
-  3) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
+  1) [Diabetes chatbot](https://diabetes-chatbot-alpha.herokuapp.com) Together with colleagues at [Ada Health](https://ada.com/) we are developing a question-answer system for diabetes.  
+  2) [Autotune123](www.Autotune123.com): A website that you can use to easily calculate 24 hour basal insulin rate recommendations, smooth the resulting outcome and upload the new profile to NightScout.
+  3) a)  Extension app to NightScout and [androidAPS](https://github.com/nightscout/AndroidAPS) with the option for b) Double wave bolusses, c) Connect actvitiy tracker. 
+  4) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
 
 - 📕 On my ideas list are: 
   1) Medical doctors feedback app ("MediFeed" or something?).
@@ -19,7 +20,6 @@ Learning these skills will involve learning how to read and write code. This can
   4) [Vital signs tracking dashboard](https://github.com/KelvinKramp/vital-signs-Dash-python)
   5) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)
   6) [Deploying an OpenAPS Autotune API to the cloud](https://github.com/KelvinKramp/AutotuneAPI)
-  7) www.Autotune123.com: A website that you can use to easily calculate 24 hour basal insulin rate recommendations, smooth the resulting outcome and upload the new profile to NightScout.
 
 
 - :hospital: I’m looking to collaborate on improving healthcare
