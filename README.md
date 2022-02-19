@@ -5,6 +5,8 @@ Learning these skills will involve learning how to read and write code. This can
 *“Change will not come if we wait for some other person or some other time. We are the ones we’ve been waiting for. We are the change that we seek.”* - Barack Obama
 <br/>
 *“When I is Replaced by We, Illness Becomes Wellness!”* - Malcolm X
+<br/>
+<br/>
 
 - 🛠️  I’m currently working on:
   1) [Diabetes chatbot](https://diabetes-chatbot-alpha.herokuapp.com): Together with colleagues at [Ada Health](https://ada.com/) we are developing a question-answer system for diabetes.  
