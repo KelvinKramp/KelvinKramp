@@ -1,10 +1,10 @@
 I believe that whether you are a medical doctor, nurse, physio-therapist or someone else who is involved in healthcare, learning automation, data science and machine learning can increase your work efficiency and efficacy and by doing so ultimately will improve your life and those of others. 
 
-Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at heart, and that if we join our efforts nothing is impossible. 
+Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at heart, and that if we join our efforts, nothing is impossible. 
 
-*“Change will not come if we wait for some other person or some other time. We are the ones we’ve been waiting for. We are the change that we seek.”* - Barack Obama
+*“When I is replaced by we, even illness becomes wellness!”* - Malcolm X
 <br/>
-*“When I is Replaced by We, Illness Becomes Wellness!”* - Malcolm X
+*“Change will not come if we wait for some other person or some other time. We are the ones we’ve been waiting for. We are the change that we seek.”* - Barack Obama
 <br/>
 <br/>
 
