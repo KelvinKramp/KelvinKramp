@@ -6,20 +6,20 @@ Learning these skills will involve learning how to read and write code. This can
 
 - 🛠️  I’m currently working on:
   1) [Diabetes chatbot](https://diabetes-chatbot-alpha.herokuapp.com): Together with colleagues at [Ada Health](https://ada.com/) we are developing a question-answer system for diabetes.  
-  2) [Autotune123](www.Autotune123.com): A website that you can use to calculate 24 hour basal insulin rate recommendations in in three steps. 
+  2) [Autotune123](www.Autotune123.com): Calculate 24 hour basal insulin rate recommendations with OpenAPS oref0 algorithm and the Savitzky–Golay filter in three steps. 
   3) a)  Extension app to NightScout and [androidAPS](https://github.com/nightscout/AndroidAPS) with the option for b) Double wave bolusses, c) Connect actvitiy tracker. 
   4) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
 
 - 📕 On my ideas list are: 
-  1) Medical doctors feedback app ("MediFeed" or something?).
+  1) During medical training there is performance scoring by supervising doctors and in some cases nurses, which is ludacris. If we really want to improve patient care our main source of feedback should be the one that's being taken care of. It should be possible to create an app ("MediFeed" or something?) that could facilitate and simplify such a process.
 
-- Completed projects:
+- Other projects:
   1) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
-  2) [Interactive agenda](https://github.com/KelvinKramp/ConsultationSchedulingApp)
+  2) [Interactive agenda in Dash](https://github.com/KelvinKramp/ConsultationSchedulingApp)
   3) [Voice assisted drug prescription](https://github.com/KelvinKramp/voice-assisted-drug-prescription)
   4) [Vital signs tracking dashboard](https://github.com/KelvinKramp/vital-signs-Dash-python)
   5) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)
-  6) [Deploying an OpenAPS Autotune API to the cloud](https://github.com/KelvinKramp/AutotuneAPI)
+  6) [Deploying an oref0 Autotune API to the cloud](https://github.com/KelvinKramp/AutotuneAPI)
 
 
 - :hospital: I’m looking to collaborate on improving healthcare
