@@ -1,10 +1,6 @@
 I believe that whether you are a medical doctor, nurse, physio-therapist or someone else who is involved in healthcare, learning automation, data science and machine learning can increase your work efficiency and efficacy and by doing so ultimately will improve your life and those of others. 
 
 Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at :green_heart:, and that if we join our efforts, nothing is impossible! 
-<br/>
-<br/>
-*“When I is replaced by we, even illness becomes wellness!”* - Malcolm X
-<br/>
 
 - 🛠️  I’m currently working on:
   1) [Diabetes chatbot](https://diabetes-chatbot-alpha.herokuapp.com): Together with colleagues at [Ada Health](https://ada.com/) we are developing a question-answer system for diabetics and those interested in learning more about diabetes!  
@@ -35,3 +31,8 @@ Learning these skills will involve learning how to read and write code. This can
 - 🔗 How to connect: k.h.kramp@gmail.com
 - :newspaper: How to stay up-to-date: [follow me on Medium](https://k-h-kramp.medium.com/)
 - 👨‍💻 A list of my scientific publications: [publication list](https://github.com/KelvinKramp/Publications) 
+
+<br/>
+<br/>
+*“When I is replaced by we, even illness becomes wellness!”* - Malcolm X
+<br/>
