@@ -1,23 +1,21 @@
 I believe that whether you are a medical doctor, nurse, physio-therapist or someone else who is involved in healthcare, learning automation, data science and machine learning can increase your work efficiency and efficacy and by doing so ultimately will improve your life and those of others. 
 
 Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at heart, and that if we join our efforts, nothing is impossible. 
-
+<br/>
 *“When I is replaced by we, even illness becomes wellness!”* - Malcolm X
-<br/>
-*“Change will not come if we wait for some other person or some other time. We are the ones we’ve been waiting for. We are the change that we seek.”* - Barack Obama
-<br/>
 <br/>
 
 - 🛠️  I’m currently working on:
-  1) [Diabetes chatbot](https://diabetes-chatbot-alpha.herokuapp.com): Together with colleagues at [Ada Health](https://ada.com/) we are developing a question-answer system for diabetes.  
-  2) [Autotune123](www.Autotune123.com): Calculate 24 hour basal insulin rate recommendations with OpenAPS oref0 algorithm and the Savitzky–Golay filter in three steps. 
-  3) a)  Extension app to NightScout and [androidAPS](https://github.com/nightscout/AndroidAPS) with the option for b) Double wave bolusses, c) Connect actvitiy tracker. 
+  1) [Diabetes chatbot](https://diabetes-chatbot-alpha.herokuapp.com): Together with colleagues at [Ada Health](https://ada.com/) we are developing a question-answer system for diabetics and those interested in learning more about diabetes!  
+  2) Autotune123: Created an user friendly web app to calculate 24-hour basal insulin recommendations with the OpenAPS oref0 algorithm. It uses the Savitzky–Golay filter to smooth curves and can upload the recommendations to your pump via NightScout. You can find a working beta version [over here](www.Autotune123.com) and the repo over [here](https://github.com/KelvinKramp/Autotune123).
+  3) a) Extension app to NightScout and AAPS (Android Artificial Pancreas System) with the option for a) activity tracker b) refresh infusion set reminders c) double wave bolusses. You can find the repo over [here](https://github.com/KelvinKramp/NS-integration/blob/master/README.md). 
   4) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
 
 - 📕 On my ideas list are: 
-  1) During medical training there is performance scoring by supervising doctors and in some cases nurses, which is ludacris. If we really want to improve patient care our main source of feedback should be the one that's being taken care of. It should be possible to create an app ("MediFeed" or something?) that could facilitate and simplify such a process.
+  1) During medical training there is performance assessment by supervising MDs and in some cases nurses, which is good thing of course, but also kind of ludacris considering that the most important person is the patient, from whom we get no assessment. If we really want to improve clinical patient care our main source of feedback should be the one that's being taken care of. It should be possible to create an app ("MediFeed" or something?) that could facilitate and simplify such a process.
+  2) Too much things. Need to work on a to-not-do list...
 
-- Other projects:
+- Experiments:
   1) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
   2) [Interactive agenda in Dash](https://github.com/KelvinKramp/ConsultationSchedulingApp)
   3) [Voice assisted drug prescription](https://github.com/KelvinKramp/voice-assisted-drug-prescription)
