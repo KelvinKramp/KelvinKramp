@@ -32,7 +32,6 @@ Learning these skills will involve learning how to read and write code. This can
 - :newspaper: How to stay up-to-date: [follow me on Medium](https://k-h-kramp.medium.com/)
 - 👨‍💻 A list of my scientific publications: [publication list](https://github.com/KelvinKramp/Publications) 
 
-# Nightscout integration
-
-# “When I is replaced by we, even illness becomes wellness!” - Malcolm X
+## “When I is replaced by we, even illness becomes wellness” 
+### Malcolm X
 <br/>
