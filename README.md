@@ -7,9 +7,13 @@ Learning these skills will involve learning how to read and write code. This can
 
 - 🛠️  I’m currently working on:
   1) [Diabetes chatbot](https://diabetes-chatbot-alpha.herokuapp.com): Together with colleagues at [Ada Health](https://ada.com/) we are developing a question-answer system for diabetics and those interested in learning more about diabetes!  
-  2) Autotune123: Created an user friendly web app to calculate 24-hour basal insulin recommendations with the OpenAPS oref0 algorithm. It uses the Savitzky–Golay filter to smooth curves and can upload the recommendations to your pump via NightScout. You can find a working beta version [over here](www.Autotune123.com) and the repo over [here](https://github.com/KelvinKramp/Autotune123).
-  3) a) Extension app to NightScout and AAPS (Android Artificial Pancreas System) with the option for a) activity tracker b) refresh infusion set reminders c) double wave bolusses. You can find the repo over [here](https://github.com/KelvinKramp/NS-integration/blob/master/README.md). 
+  2) [Autotune123](www.Autotune123.com): Created an user friendly web app to calculate 24-hour basal insulin recommendations with the OpenAPS oref0 algorithm. It uses the Savitzky–Golay filter to smooth curves and can upload the recommendations to your pump via NightScout. Current state is a working beta version. The repo can be found over [here](https://github.com/KelvinKramp/Autotune123).
+  3) [Extension app](https://github.com/KelvinKramp/NS-integration/blob/master/README.md) to NightScout and AAPS (Android Artificial Pancreas System) with the option for a) activity tracker b) refresh infusion set reminders c) double wave bolusses. You can find the repo over [here](https://github.com/KelvinKramp/NS-integration/blob/master/README.md). 
   4) Teaching myself how to do pull requests and learning how to contribute to the projects of others. 
+
+- ✨ Github stats: 
+<img src="https://github-readme-stats.vercel.app/api?username=KelvinKramp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 - 📕 On my ideas list are: 
   1) During medical training there is performance assessment by supervising MDs and in some cases nurses, which is good thing of course, but also kind of ludacris considering that the most important person is the patient, from whom we get no assessment. If we really want to improve clinical patient care our main source of feedback should be the one that's being taken care of. It should be possible to create an app ("MediFeed" or something?) that could facilitate and simplify such a process.
@@ -30,5 +34,3 @@ Learning these skills will involve learning how to read and write code. This can
 - 🔗 How to connect: k.h.kramp@gmail.com
 - :newspaper: How to stay up-to-date: [follow me on Medium](https://k-h-kramp.medium.com/)
 - 👨‍💻 A list of my scientific publications: [publication list](https://github.com/KelvinKramp/Publications) 
-- ✨ Github stats: 
-<img src="https://github-readme-stats.vercel.app/api?username=KelvinKramp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
