@@ -34,5 +34,5 @@ Learning these skills will involve learning how to read and write code. This can
 
 <br/>
 <br/>
-*“When I is replaced by we, even illness becomes wellness!”* - Malcolm X
+#“When I is replaced by we, even illness becomes wellness!” - Malcolm X
 <br/>
