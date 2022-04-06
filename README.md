@@ -28,6 +28,14 @@ Learning these skills will involve learning how to read and write code. This can
   6) [Deploying an oref0 Autotune API to the cloud](https://github.com/KelvinKramp/AutotuneAPI)
 
 #
+- Medium Articles:
+  1) [Predicting ED hospital admission with machine learning](https://k-h-kramp.medium.com/machine-learning-prediction-of-hospital-admission-of-emergency-department-patients-d6afb1b40602)
+  2) [Organisation diversity check](https://k-h-kramp.medium.com/organisation-diversity-check-in-python-87d3ec2c725b)
+  3) [Scraping subpages of a website](https://k-h-kramp.medium.com/organisation-diversity-check-in-python-87d3ec2c725b) 
+  4) [Trading bots: why money should not be your main goal](https://k-h-kramp.medium.com/trading-bots-b479d08a31a2)
+  5) [Tracking changes in Google Spreadsheets with Google Apps Script](https://k-h-kramp.medium.com/automated-work-progress-tracking-88f4fde1acaf)
+
+#
 - :hospital: I’m looking to collaborate on improving healthcare
 - :mag_right: I’m looking for help with java and android
 - 💬 Ask me what dance is
