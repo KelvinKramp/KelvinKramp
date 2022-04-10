@@ -21,7 +21,7 @@ Learning these skills will involve learning how to read and write code. This can
 #
 - Experiments:
   1) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
-  2) [Interactive agenda in Dash](https://github.com/KelvinKramp/ConsultationSchedulingApp)
+  2) [Interactive agenda in Dash](https://github.com/KelvinKramp/consultation-agenda)
   3) [Voice assisted drug prescription](https://github.com/KelvinKramp/voice-assisted-drug-prescription)
   4) [Vital signs tracking dashboard](https://github.com/KelvinKramp/vital-signs-Dash-python)
   5) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)
