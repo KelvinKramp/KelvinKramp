@@ -26,6 +26,7 @@ Learning these skills will involve learning how to read and write code. This can
   4) [Vital signs tracking dashboard](https://github.com/KelvinKramp/vital-signs-Dash-python)
   5) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)
   6) [Deploying an oref0 Autotune API to the cloud](https://github.com/KelvinKramp/AutotuneAPI)
+  7) [Feedback web application in Dash](https://github.com/KelvinKramp/BookFeedback)
 
 #
 - Medium Articles:
