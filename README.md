@@ -2,7 +2,7 @@ I believe that whether you are a medical doctor, nurse, physio-therapist or some
 
 Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at :green_heart:, and that if we join our efforts, nothing is impossible! 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fdBcZ9mVMwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Youtube Tutorial Link](../)](https://www.youtube.com/watch?v=hjMx8EuyZJ8)
 
 #
 
