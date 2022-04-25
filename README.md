@@ -4,7 +4,7 @@
 #
 
 #
-- Experiments in automation:
+- Experiments in health tracking, automation and webdevelopment:
   1) Health trackers:<br>
       a) [Health dashboard (Integrate Fitbit, OpenScale and Nightscout data)](https://github.com/KelvinKramp/healthdashboard)<br>
       b) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)<br>
