@@ -1,7 +1,3 @@
-I believe that whether you are a medical doctor, nurse, physio-therapist or someone else who is involved in healthcare, learning automation, data science and machine learning can increase your work efficiency and efficacy and by doing so ultimately will improve your life and those of others. 
-
-Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at :green_heart:, and that if we join our efforts, nothing is impossible! 
-
 # 
 ### “When I is replaced by we, even illness becomes wellness” 
 #### Malcolm X
