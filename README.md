@@ -2,22 +2,11 @@ I believe that whether you are a medical doctor, nurse, physio-therapist or some
 
 Learning these skills will involve learning how to read and write code. This can be a complex task at times. However, the establishment and continual development of the open source community shows us that people are happy to help others, that people are good at :green_heart:, and that if we join our efforts, nothing is impossible! 
 
+# 
+### “When I is replaced by we, even illness becomes wellness” 
+#### Malcolm X
 #
 
-- 🛠️  I’m currently working on:
-  1) [Diabetes chatbot](https://diabetes-chatbot-alpha.herokuapp.com): Together with colleagues at [Ada Health](https://ada.com/) we are developing a question-answer system for diabetics and those interested in learning more about diabetes!  
-  2) [Autotune123](http://www.autotune123.com/): User friendly web app to calculate 24-hour basal insulin recommendations with the OpenAPS oref0 algorithm. It uses the Savitzky–Golay filter to smooth curves and can upload the recommendations to your pump via NightScout. Current state is a working beta version. The repo can be found over [here](https://github.com/KelvinKramp/Autotune123).
-  3) [Extension app](https://github.com/KelvinKramp/NS-integration/blob/master/README.md) to NightScout and AAPS (Android Artificial Pancreas System) with the option for a) activity tracker b) refresh infusion set reminders c) double wave bolusses. You can find the repo over [here](https://github.com/KelvinKramp/NS-integration/blob/master/README.md). 
-  4) Teaching myself how to do pull requests and learning how to contribute to the projects of others! 
-
-#
-- ✨ Github stats: 
-<img src="https://github-readme-stats.vercel.app/api?username=KelvinKramp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-#
-- 📕 On my ideas list are: 
-  1) During medical training there is performance assessment by supervising MDs and in some cases nurses, which is good thing of course, but also kind of ludacris considering that the most important person is the patient, from whom we get no assessment. If we really want to improve clinical patient care our main source of feedback should be the one that's being taken care of. It should be possible to create an app ("MediFeed" or something?) that could facilitate and simplify such a process.
-  2) Too much things. Need to work on a to-not-do list...
 #
 - Experiments:
   1) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
@@ -44,8 +33,7 @@ Learning these skills will involve learning how to read and write code. This can
 - :newspaper: How to stay up-to-date: [follow me on Medium](https://k-h-kramp.medium.com/)
 - 👨‍💻 A list of my scientific publications: [publication list](https://github.com/KelvinKramp/Publications) 
 
-# 
-### “When I is replaced by we, even illness becomes wellness” 
-#### Malcolm X
 #
-<br/>
+- ✨ Github stats: 
+<img src="https://github-readme-stats.vercel.app/api?username=KelvinKramp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
