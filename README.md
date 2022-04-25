@@ -10,10 +10,10 @@
       b) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)<br>
   2) Diabetes:<br>
       a) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)<br>
-      b) [Autotune123](https://github.com/KelvinKramp/Autotune123)<br>
+      b) [Autotune123 (More physiologic insulin recommendations from oref0 Autotune and direct upload to nightscout)](https://github.com/KelvinKramp/Autotune123)<br>
   3) Other:<br>
       a) [Interactive appointment dashboard in Dash](https://github.com/KelvinKramp/appointments-dashboard)<br>
-      b) [Flask Booking website](https://github.com/KelvinKramp/rijX)<br>
+      b) [Flask Booking website](https://github.com/KelvinKramp/rijX) [(example can be found here)[https://www.rijrotterdam.nl] <br>
       c) [Feedback web application in Dash](https://github.com/KelvinKramp/BookFeedback)<br>
       d) [Price webscraper](https://github.com/KelvinKramp/scrape-driverse-license-medical-check-prices)<br>
       e) [Flask-Elasticsearch-GoogleSpreadsheets question-answer system](https://github.com/KelvinKramp/flask-searchform-elasticsearch)<br>
