@@ -8,14 +8,20 @@ Learning these skills will involve learning how to read and write code. This can
 #
 
 #
-- Experiments:
-  1) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
-  2) [Interactive agenda in Dash](https://github.com/KelvinKramp/consultation-agenda)
-  3) [Voice assisted drug prescription](https://github.com/KelvinKramp/voice-assisted-drug-prescription)
-  4) [Vital signs tracking dashboard](https://github.com/KelvinKramp/vital-signs-Dash-python)
-  5) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)
-  6) [Deploying an oref0 Autotune API to the cloud](https://github.com/KelvinKramp/AutotuneAPI)
-  7) [Feedback web application in Dash](https://github.com/KelvinKramp/BookFeedback)
+- Experiments in automatisation:
+  1) Health trackers
+      a) [Health dashboard (Integrate Fitbit, OpenScale and Nightscout data)](https://github.com/KelvinKramp/healthdashboard)
+      b) [Medical score calculator](https://github.com/KelvinKramp/OPS-calculator)
+  2) Diabetes:
+      a) [Continous glucose measurements](https://towardsdatascience.com/how-to-hack-a-glucose-sensor-ebaaf2238170)
+      b) (Autotune123)[https://github.com/KelvinKramp/Autotune123]
+  3) Other:
+      a) [Interactive appointment dashboard in Dash](https://github.com/KelvinKramp/appointments-dashboard)
+      b) [Flask Booking website](https://github.com/KelvinKramp/rijX)
+      c) [Feedback web application in Dash](https://github.com/KelvinKramp/BookFeedback)
+      d) [Price webscraper](https://github.com/KelvinKramp/scrape-driverse-license-medical-check-prices)
+      e) [Flask-Elasticsearch-GoogleSpreadsheets question-answer system](https://github.com/KelvinKramp/flask-searchform-elasticsearch)
+
 
 #
 - Medium Articles:
@@ -24,6 +30,7 @@ Learning these skills will involve learning how to read and write code. This can
   3) [Scraping subpages of a website](https://k-h-kramp.medium.com/organisation-diversity-check-in-python-87d3ec2c725b) 
   4) [Trading bots: why money should not be your main goal](https://k-h-kramp.medium.com/trading-bots-b479d08a31a2)
   5) [Tracking changes in Google Spreadsheets with Google Apps Script](https://k-h-kramp.medium.com/automated-work-progress-tracking-88f4fde1acaf)
+  6) [Voice assisted drug prescription](https://python.plainenglish.io/prescribing-drugs-with-a-python-voice-assistant-3763f2561081)
 
 #
 - :hospital: I’m looking to collaborate on improving healthcare
