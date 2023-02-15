@@ -6,7 +6,7 @@
 #
 - 🌱 I’m currently learning to increase my development speed in React and Python. 
 - :hospital: I’m looking to collaborate on any open source healthcare probjects.
-- ⚡ Interesting fact about me: I wrote a book about the dance I love called [Urban Kiz](https://books.google.nl/books?id=Y65CEAAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false).  
+- ⚡ Interesting fact: I wrote a book about the dance I love called [Urban Kiz](https://books.google.nl/books?id=Y65CEAAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false).  
 - 🔗 How to connect: www.kelvinkramp.com, k.h.kramp@gmail.com
 - :newspaper: How to stay up-to-date: [follow me on Medium](https://k-h-kramp.medium.com/)
 - 👨‍💻 A list of my scientific publications: [publication list](https://www.kelvinkramp.com/publications) 
