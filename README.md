@@ -4,6 +4,18 @@
 #
 
 #
+- 🌱 I’m currently learning to increase my development speed in React and Python. 
+- :hospital: I’m looking to collaborate on any open source healthcare probjects.
+- 💬 Ask me what dance is :-P
+- 🔗 How to connect: www.kelvinkramp.com, k.h.kramp@gmail.com
+- :newspaper: How to stay up-to-date: [follow me on Medium](https://k-h-kramp.medium.com/)
+- 👨‍💻 A list of my scientific publications: [publication list](https://www.kelvinkramp.com/publications) 
+
+#
+- ✨ Github stats: 
+<img src="https://github-readme-stats.vercel.app/api?username=KelvinKramp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+#
 - Experiments in health tracking, automation and webdevelopment:
   1) Health trackers:<br>
       a) [Health dashboard (Integrate Fitbit, OpenScale and Nightscout data)](https://github.com/KelvinKramp/healthdashboard)<br>
@@ -18,7 +30,6 @@
       d) [Price webscraper](https://github.com/KelvinKramp/scrape-driverse-license-medical-check-prices)<br>
       e) [Flask-Elasticsearch-GoogleSpreadsheets question-answer system](https://github.com/KelvinKramp/flask-searchform-elasticsearch)<br>
 
-
 #
 - Medium Articles:
   1) [Predicting ED hospital admission with machine learning](https://k-h-kramp.medium.com/machine-learning-prediction-of-hospital-admission-of-emergency-department-patients-d6afb1b40602)
@@ -28,15 +39,6 @@
   5) [Tracking changes in Google Spreadsheets with Google Apps Script](https://k-h-kramp.medium.com/automated-work-progress-tracking-88f4fde1acaf)
   6) [Voice assisted drug prescription](https://python.plainenglish.io/prescribing-drugs-with-a-python-voice-assistant-3763f2561081)
 
-#
-- :hospital: I’m looking to collaborate on improving healthcare
-- :mag_right: I’m looking for help with java and android
-- 💬 Ask me what dance is
-- 🔗 How to connect: k.h.kramp@gmail.com
-- :newspaper: How to stay up-to-date: [follow me on Medium](https://k-h-kramp.medium.com/)
-- 👨‍💻 A list of my scientific publications: [publication list](https://github.com/KelvinKramp/Publications) 
 
-#
-- ✨ Github stats: 
-<img src="https://github-readme-stats.vercel.app/api?username=KelvinKramp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
