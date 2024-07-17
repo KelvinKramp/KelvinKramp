@@ -1,7 +1,6 @@
 # 
 ### “When I is replaced by we, even illness becomes wellness” 
 #### Malcolm X
-#
 
 #
 - 🌱 I’m currently focusing on [OpenSourceLooping](https://www.opensourcelooping.com). 
